@@ -6,7 +6,7 @@
 
 *Engenharia da Computação · UniFECAF | Técnico em Marketing*
 
-Construo soluções que conectam dados, tecnologia e negócio — do pipeline de dados ao produto final.
+Futuro Engenheiro, técnico e neuromarketing.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosandrolemos)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rosandrolemos)
@@ -20,7 +20,7 @@ Construo soluções que conectam dados, tecnologia e negócio — do pipeline de
 
 Sou desenvolvedor Full Stack e Analista de Dados com background híbrido em tecnologia e marketing. Essa combinação me permite não só construir sistemas robustos, mas também entender o impacto real das soluções no negócio.
 
-Atuo desde a modelagem de dados e previsões de mercado até o desenvolvimento de APIs, automações e dashboards executivos. Tenho experiência com projetos no setor de commodities (açúcar e etanol), marketing digital e desenvolvimento de sistemas corporativos.
+Atuo desde a modelagem de dados e previsões de mercado até o desenvolvimento de APIs e automações. Tenho experiência com projetos no setor de commodities, marketing digital e desenvolvimento de sistemas corporativos.
 
 ---
 
@@ -55,13 +55,13 @@ Atuo desde a modelagem de dados e previsões de mercado até o desenvolvimento d
 
 ---
 
-## Experiência
+## Experiências Profissinais
 
-**Tereos Brasil** — Analista de BI & Dados  
-Desenvolvimento de modelos preditivos para o mercado de açúcar e etanol, pipelines de dados e dashboards para tomada de decisão estratégica.
+**Tereos Brasil** — Inteligência de Mercado  
+Desenvolvimento de modelos preditivos para o mercado de açúcar e etanol, pipelines de dados e telas para tomada de decisão.
 
 **KG Sorensen** — Desenvolvedor de Sistemas  
-Desenvolvimento de sistemas web, automação de processos e criação de landing pages para captação de leads.
+Desenvolvimento de sistemas web e automação de processos
 
 **VIC Assessoria Empresarial** — Marketing Digital  
 Estratégias de presença digital, análise de métricas e automação de campanhas.
