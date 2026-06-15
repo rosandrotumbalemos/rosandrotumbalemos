@@ -99,6 +99,6 @@ Estratégias de presença digital, análise de métricas e automação de campan
 
 <div align="center">
 
-*"Dados bem interpretados valem mais que qualquer dashboard bonito."*
+*"Vamos trabalhar juntos?."*
 
 </div>
