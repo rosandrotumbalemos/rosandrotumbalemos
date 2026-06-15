@@ -18,7 +18,7 @@ Futuro Engenheiro, técnico e neuromarketing.
 
 ## Sobre mim
 
-Sou desenvolvedor Full Stack e Analista de Dados com background híbrido em tecnologia e marketing. Essa combinação me permite não só construir sistemas robustos, mas também entender o impacto real das soluções no negócio.
+Sou desenvolvedor Full Stack e Analista de Dados com conhecimentos teóricos, sociológicos e práticos em tecnologia e marketing.
 
 Atuo desde a modelagem de dados e previsões de mercado até o desenvolvimento de APIs e automações. Tenho experiência com projetos no setor de commodities, marketing digital e desenvolvimento de sistemas corporativos.
 
